@@ -1113,7 +1113,7 @@ importers:
       execa: ^5.1.1
       ora: ^5.4.1
       rimraf: 3.0.2
-      vite: 2.9.14
+      vite: 3.0.4
       vue: ^3.2.37
       vue-router: ^4.1.3
     dependencies:
@@ -1132,7 +1132,7 @@ importers:
       '@vuepress/bundler-webpack': 2.0.0-beta.49
       '@vuepress/core': 2.0.0-beta.49
       rimraf: 3.0.2
-      vite: 2.9.14
+      vite: 3.0.4
 
   packages/sitemap2:
     specifiers:
@@ -11462,7 +11462,7 @@ packages:
       esbuild: 0.14.51
       postcss: 8.4.14
       resolve: 1.22.1
-      rollup: 2.77.0
+      rollup: 2.77.2
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
